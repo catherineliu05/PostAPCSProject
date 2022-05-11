@@ -1,0 +1,8 @@
+Multiple users observe a roll of tape on the table. Then, they are given the length of the tape in yards to cut off. 
+The tape will roll out on the table continuously (with cm measurements printed on the tape). They will click on the screen when they think they reached the
+target length and the tape will cut off at that point by itself.
+The person who is closest to the actual measurement (Math.abs) is the closest and gets the point. 
+
+As the player gets more skilled and advances to higher levels (with more complex measurements), they will unlock washi tapes!!
+
+(This game teaches young kids about measurements and the conversion system :D)
